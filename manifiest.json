@@ -7,7 +7,14 @@
     "display": "standalone",
     "icons": [
         {
-            "src": 
+            "src": "images/logo192.png",
+            "sizes": "192x192", 
+            "type": "images/png"
+        },
+        {
+            "src": "images/logo512.png",
+            "sizes": "192x192", 
+            "type": "images/png"
         }
     ]
 
